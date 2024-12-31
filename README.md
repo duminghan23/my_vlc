@@ -3,6 +3,7 @@
 
 
 ## 使用方法
+下载两个源代码文件，并安装依赖，使用pyinstaller -f my_vlc.py进行打包。
 将exe文件，已经整理好的m3u文件放置到vlc压缩包版解压后的文件夹内，双击exe执行文件即可。
 如图：
 ![image](https://github.com/user-attachments/assets/de3d8ea8-0860-41d1-97f1-f7f38b9ec271)
