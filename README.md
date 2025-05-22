@@ -1,5 +1,7 @@
 # my_vlc
-一款基于vlc、python的数字键盘可控制的iptv流播放程序
+一款基于vlc、python的数字键盘可控制的iptv流播放程序    
+
+此项目在2025-05-21 不再维护，已经停止更新。升级的项目为myitv   https://github.com/duminghan23/myitv ，以后均使用新项目  
 
 ## 特色
 支持启动后，播放全屏。
